@@ -1,0 +1,12 @@
+{
+  "name": "hermes-web-test-app",
+  "version": "1.0.0",
+  "description": "A test web app by Hermes Agent",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
